@@ -1,0 +1,8 @@
+Note: 
+
+my program runs perfectly fine when opening the solution in visual studio and pressing f5 or "Local windows debugger" button
+
+however, the executable file in the debug folder seems to encounter an error when trying to run
+
+if the exe file also encounters an error for you then please unzip the the Monopoly Assignment folder and run the solution
+
